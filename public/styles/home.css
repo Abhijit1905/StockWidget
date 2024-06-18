@@ -1,0 +1,99 @@
+.gradient-background {
+    background: linear-gradient(135deg, #5c4146,#2f396b);
+     background-size: 100%;
+}
+.big{
+    width:297px;
+    height:299px;
+    gap:6px;
+    border-radius: 8px;
+}
+.heading{
+    color: #F6F5F5;
+    font-weight: 500;
+}
+.screen{
+    height: 100vh;
+    background: linear-gradient(180deg, #010fcc, #000439 );
+    overflow: hidden;
+    
+}
+.stock{
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.07));
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(10px);
+    width: 266px;
+    height:40px;
+    border-radius: 5px;
+}
+.picture{
+    width:268px;
+    height:41px;
+}
+.show{
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.07));
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(10px);
+    width:85px;
+    height:24px;
+    border-radius: 10px;
+    margin-bottom:2px;
+}
+.img1{
+    width: 19px;
+    height: 19px;
+}
+.mar{
+    height: 17px;
+    color: #F6F5F5;
+}
+.word{
+    font-size: 12px;color:#F6F5F5;
+}
+.subword{
+    font-size: 10px;color:#F6F5F5;
+}
+.textdiv{
+    height: 17px;
+}
+.wordd{
+    height: 20px;
+}
+.subwordd{
+    height: 20px;
+}
+.percent{
+    height: 20px;
+}
+.open{
+    height: 20px;
+}
+.wordbelow{
+    font-size: 13px;
+    color: #F6F5F5;
+}
+.xx{
+    padding-top: 1.5px;
+}
+.stock:hover{
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+.show:hover{
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+.red{
+    color:#f0929e;
+    font-size: 12px;
+}
+.green {
+    color:#66b55c ;
+    font-size: 12px;
+}
+.openstock{
+    font-size: 12px;
+    color: #F6F5F5;
+}
